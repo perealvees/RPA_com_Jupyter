@@ -1,0 +1,13 @@
+
+* O markdown é o cometário, então você seleciona ele la em cima e depois usa as flexinhas movimentar a posição
+
+* Para instalar um app, vai no windows, procura por prompt anaconda3.
+	digite: pip install selenium
+
+* Para iniciar o navegador, digita:
+		from selenium import webdriver // para importar da biblioteca o WEBDRIVER
+		
+		navegador = webdriver.Chrome() // abrir o Chrome
+
+
+	
